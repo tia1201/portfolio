@@ -17,6 +17,7 @@ It focuses more on:
 - project outcomes and impact
 
 **PDF:** [江宛亭UX作品集.pdf](./江宛亭UX作品集.pdf)
+浏览如有问题可直接下载
 
 This portfolio is recommended for recruiters, hiring managers, and interviewers who would like to quickly understand my practical project experience and role fit in the domestic market.
 
